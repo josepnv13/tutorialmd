@@ -1,18 +1,27 @@
 # FIFA TUTORIAL MARKDOWN
-Bienvenido al tutorial de MD
-## CABECERAS
-HAY CABECERAS DE HASTA 6 NIVELES
+Benvinguts al tutorial de Markdown
+## CAPÇALERES
+Hi ha capçaleres de 6 nivells diferents
 * H1
 * H2
 * H3
 * H4
 * H5
 * H6
+## PARÀGRAFS
+## LLETRA EN CURSIVA O NEGRETA
+// Per a escriure una paraula en negreta posarem _ a principi i final de paraula //
+_ESTO ES CURSIVA_
 
-sdfasdfasdf
-jhcxgkd
-dfsdf
-vgbffffffffuvfy
+
+
+
+
+
+
+
+
+## MAPES I LOCALITZACIONS
 
 ```geojson
 {
@@ -28,11 +37,11 @@ vgbffffffffuvfy
         "type": "Polygon",
         "coordinates": [
           [
-              [-190,35],
-              [-190,30],
-              [-185,30],
-              [-185,35],
-              [-190,35]
+              [10,35],
+              [,2030],
+              [30,30],
+              [40,35],
+              [50,35]
           ]
         ]
       }
