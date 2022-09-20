@@ -9,25 +9,18 @@ Hi ha capçaleres de 6 nivells diferents
 ##### H5  
 ###### H6  
 ## PARÀGRAFS  
-Per a crear paràgrafs hi ha prou amb deixar una linea en blanc.  
+Per a crear paràgrafs hi ha prou amb deixar una línea en blanc.  
 
 Açó es un paràgraf.  
 
 Açó és un altre.  
+
 ## LLETRA EN CURSIVA O NEGRETA
-Per a escriure una paraula en CURSIVA posarem `_` a principi i final de paraula    
-_ESTO ES CURSIVA_
+Per a escriure una paraula en CURSIVA posarem `_` a principi i final de paraula/text.   
+_AÇÓ ES CURSIVA_
 
-
-jjj yyyy
-ggg hh
-
-JOSEP
-
-
-
-
-
+Per a escriure una paraula en NEGRETA posarem `**` a principi i final de paraula/text.   
+**AÇÓ ES NEGRETA**  
 ## MAPES I LOCALITZACIONS
 
 ```geojson
