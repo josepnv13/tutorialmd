@@ -1,4 +1,4 @@
-# FIFA TUTORIAL MARKDOWN
+# FIFA TUTORIAL MARKDOWN   CONTROL S X A GUARDAR I DESPRES SINCRONITZAR 
 Benvinguts al tutorial de Markdown
 ## CAPÇALERES
 Hi ha capçaleres de 6 nivells diferents
