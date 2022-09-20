@@ -10,7 +10,7 @@ Hi ha capçaleres de 6 nivells diferents
 * H6
 ## PARÀGRAFS
 ## LLETRA EN CURSIVA O NEGRETA
-// Per a escriure una paraula en negreta posarem _ a principi i final de paraula //
+Per a escriure una paraula en negreta posarem `_` a principi i final de paraula //
 _ESTO ES CURSIVA_
 
 
