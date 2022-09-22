@@ -45,6 +45,39 @@ Per a fer una llista de manera desordenada posarem `+`,`*` o `-`
 
 
 ## MAPES I LOCALITZACIONS
+Per a Introduir un mapa i una localització hem d'adreçar aquest codi . 
+
+
+`
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [10,35],
+              [10,30],
+              [10,30],
+              [10,35],
+              [10,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+`
+
 
 ```geojson
 {
