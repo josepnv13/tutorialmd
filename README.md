@@ -49,7 +49,7 @@ Per a Introduir un mapa i una localització hem d'adreçar aquest codi .
 
 
 
-//```geojson
+```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -74,7 +74,7 @@ Per a Introduir un mapa i una localització hem d'adreçar aquest codi .
     }
   ]
 }
-```//
+```
 
 
 
