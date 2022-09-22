@@ -27,21 +27,21 @@ Per a escriure una paraula en NEGRETA posarem `**` a principi i final de paraula
 **AÇÓ ES NEGRETA**  , A**çó** és **parcialment** en negreta
 
 ### LÍNIES 
-Per iniciar una nova línia has d'afegir dos espais en blanc al final de la línia, polsar INTRO o fer servir una barra invertida   `\`ok, segons l'editor que utilitzes.
+Per iniciar una nova línia has d'afegir dos espais en blanc al final de la línia, polsar INTRO o fer servir una barra invertida   `\` , segons l'editor que utilitzes.
 
 ### CITES
-Per a crear cites haurem de posar aquest simbol '>' al principi de cada cita per exemple:
+Per a crear cites haurem de posar aquest simbol `>` al principi de cada cita per exemple:
 > Açó es una cita 
 >> Açó es una altra cita.
 
 ### LLISTES ORDENADES 
-Pera fer una llista ordenada haurem de posar açó '1.' davant de cada enunciat.
+Pera fer una llista ordenada haurem de posar açó `1.` davant de cada enunciat.
 
 1. Primer element de la llista.
 2. Segon element de la llista.
 
 ### LLISTES DESORDENADES 
-Per a fer una llista de manera desordenada posarem '+','*' o '-' dd 
+Per a fer una llista de manera desordenada posarem `+`,`*` o `-` 
 
 
 ## MAPES I LOCALITZACIONS
