@@ -27,7 +27,7 @@ Per a escriure una paraula en NEGRETA posarem `**` a principi i final de paraula
 **AÇÓ ES NEGRETA**  , A**çó** és **parcialment** en negreta
 
 ### LÍNIES 
-Per iniciar una nova línia has d'afegir dos espais en blanc al final de la línia, polsar INTRO o fer servir una barra invertida   '\', segons l'editor que utilitzes.
+Per iniciar una nova línia has d'afegir dos espais en blanc al final de la línia, polsar INTRO o fer servir una barra invertida   `\`ok, segons l'editor que utilitzes.
 
 ### CITES
 Per a crear cites haurem de posar aquest simbol '>' al principi de cada cita per exemple:
