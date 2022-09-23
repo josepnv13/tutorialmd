@@ -46,9 +46,8 @@ Per a fer una llista de manera desordenada posarem `+`,`*` o `-`
 
 ## MAPES I LOCALITZACIONS
 Per a Introduir un mapa i una localització hem d'adreçar aquest codi . 
-├─ escriptori
-     └─ capturamarkdown.png
-     ├─ README.md
+
+<img src="https://pbs.twimg.com/media/EiAuAS8VoAA1-4T?format=jpg&name=large" alt="JuveR" width="300px">
 
 
 
