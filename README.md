@@ -43,6 +43,10 @@ Pera fer una llista ordenada haurem de posar açó `1.` davant de cada enunciat.
 ### LLISTES DESORDENADES 
 Per a fer una llista de manera desordenada posarem `+`,`*` o `-` 
 
+### IMATGES
+
+![ANUEL](https://resources.diariolibre.com/images/2023/03/13/anuel-aa-i-b2f81979-focus-0.04-0.36-895-573.jpg)
+
 
 ## MAPES I LOCALITZACIONS
 Per a Introduir un mapa i una localització hem d'adreçar aquest codi . 
