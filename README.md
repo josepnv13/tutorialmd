@@ -77,4 +77,7 @@ Per a Introduir un mapa i una localització hem d'adreçar aquest codi .
     }
   ]
 }
+
+![ANUEL](https://resources.diariolibre.com/images/2023/03/13/anuel-aa-i-b2f81979-focus-0.04-0.36-895-573.jpg)
+
 ```
