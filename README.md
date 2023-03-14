@@ -53,7 +53,22 @@ Per a Introduir un mapa i una localització hem d'adreçar aquest codi .
 
 <img src="capturamarkdown.png" alt="JuveR" width="300px">
 
-
+## Parsed with column specification:
+## cols(
+##   DIRECCION = col_character(),
+##   SERIE_PROPIEDAD = col_character(),
+##   ORDENANZA_PROPIEDAD = col_character(),
+##   VALOR_PROPIEDAD_ESTRUCTURA = col_double(),
+##   TERRENO = col_character(),
+##   SERIE_TERRENO = col_character(),
+##   ORDENANZA_TERRENO = col_double(),
+##   VALOR_TERRENO = col_character(),
+##   Long = col_double(),
+##   Lat = col_double(),
+##   CATASTTRO_REGISTRO = col_character(),
+##   CLASIFICACION = col_character(),
+##   ENTRADA = col_character()
+## )
 
 
 
